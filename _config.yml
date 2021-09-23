@@ -51,6 +51,10 @@ about_profile_image: images/me.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name's Duc and I'm a developer and delivered high-end website solutions to a diverse client base by utilizing wide-ranging technologies and frameworks.
 
+  I’ve started pursuing a career in Cloud DevOps Engineering. It was a natural next step for me and has been transforming the way I work.
+
+  What I’m looking for are opportunities to learn by helping other developers and companies build their <mark>microservices architecture</mark> and <mark>cloud infrastructure</mark>, using the most advanced technology available.
+
   Knowledge of AWS service (EC2, S3, CloudFront).
 content:
   # - title: Projects # Title for the section
