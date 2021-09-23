@@ -88,6 +88,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           <b>Developing CI/CD roadmap and implementing to the project with Gitlab</b>
           - Dockerizing existing projects (<mark>Build</mark> docker images and <mark>Deploy</mark> to registry)
+          - The push triggers the CI/CD Pipelines (build, test, deploy)
+
+
+
 
           Ansible: developing build and deployment scripts (php,mysql,nginx) to multi server (sandbox, production)
 
