@@ -22,7 +22,7 @@ darkmode: false
 # dribbble_username: jekyll
 facebook_username: leebin89
 # flickr_username: jekyll
-instagram_username: jameswgrant
+# instagram_username: jameswgrant
 linkedin_username: vovanduc
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -91,12 +91,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: center
-        title: DNIIT (Professional Diploma in Information Technology)
+        title: Software Engineering
         caption: 2008  —  2010
-        sub_title: Software Engineering
-        #quote: >
+        sub_title: 
+        quote: >
+          NIIT Edufirst Centre, Ho Chi Minh, Vietnam
         description: | # this will include new lines to allow paragraphs
-            NIIT Edufirst Centre, Ho Chi Minh, Vietnam
+            DNIIT (Professional Diploma in Information Technology)
           
 
   - title: A Little More About Me
