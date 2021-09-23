@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   - Have basic knowledge of Terraform (deploy static website on AWS)
 
-  - Having knowledge on Amazon AWS services such as EC2, S3, CloudFront.
+  - Have basic knowledge on Amazon AWS services such as EC2, S3, CloudFront.
 
 content:
   # - title: Projects # Title for the section
