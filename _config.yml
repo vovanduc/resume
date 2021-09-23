@@ -97,6 +97,9 @@ content:
           - Testing ansible roles with vagrant
 
           <b>Deploy the Application to Kubernetes (on-pre)</b>
+          - Used k8s to orchestrate the deployment, scaling and management of docker containers
+          - Implemented a production ready, load balanced, highly available, fault tolerant Kubernetes cloud infrastructure
+          - Run a Replicated Stateful Application
 
       - layout: left
         title: Vinacis Group
@@ -193,11 +196,14 @@ plugins:
 
 # vovanduc
 
-  # - Have basic knowledge of Terraform (deploy static website on AWS)
+# - Have basic knowledge of Terraform (deploy static website on AWS)
 
-  # - Have basic knowledge on Amazon AWS services such as EC2, S3, CloudFront
+# - Have basic knowledge on Amazon AWS services such as EC2, S3, CloudFront
 
 # Implementing CI/CD with different technology stacks (Java, PHP, JavaScript, NodeJs, .NET)
+
+# Provisioning of AWS resources (EC2, PVC, SG, ASG, EKS, ECS, S3, Route 53) using CloudFormation
+# and Terraform
 
 # Having 3+ years of experience on DevOps Engineering practices involving with life cycle of
 # software development such as Continuous Integration, Continuous Delivery, Configuration
