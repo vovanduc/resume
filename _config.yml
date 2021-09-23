@@ -86,8 +86,8 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          <b>Developing CI/CD roadmap and implementing to the project with Gitlab.com</b>
-          - Dockerizing existing projects (Writing Dockerfiles, Using docker-compose, Deploying to registry…)
+          <b>Developing CI/CD roadmap and implementing to the project with Gitlab</b>
+          - Dockerizing existing projects (<mark>Build</mark> docker images and <mark>Deploy</mark> to registry)
 
           Ansible: developing build and deployment scripts (php,mysql,nginx) to multi server (sandbox, production)
 
