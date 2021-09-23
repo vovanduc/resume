@@ -101,6 +101,7 @@ content:
           - Implemented a production ready, load balanced, highly available, fault tolerant Kubernetes cloud infrastructure
           - Run a Replicated Stateful Application
           - Managed Kubernetes charts using Helm
+          - Building a Kubernetes CI/CD Pipeline with GitLab and Helm
 
       - layout: left
         title: Vinacis Group
