@@ -100,6 +100,7 @@ content:
           - Developing build and deployment scripts (php,mysql,nginx) to multi server (Sandbox, Qa, Prod)
           - Testing ansible roles with vagrant
 
+          <b>Deploy the Application to Kubernetes (on-pre)</b>
 
       - layout: left
         title: Vinacis Group
