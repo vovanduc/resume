@@ -90,10 +90,13 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - <b>Knitting</b>
+      - <b>Cloud Native: </b> Kubernetes - AWS
+      - <b>Infrastructure as Code: </b> Ansible - Terraform
+      - <b>Monitoring - Logging: </b> Prometheus - Fluentd - Grafana - Elasticsearch
+      - <b>CI/CD: </b> Gitlab
+      - <b>Scripting and Coding: </b> JavaScript - PHP - Python - SQL - Git - YAML
+      - <b>Web frameworks: </b> Laravel - Codeigniter - Django
+      - <b>Tools: </b> Docker - Virtualbox - Vagrant - Visual Studio Code - Iterm 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
