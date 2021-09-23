@@ -55,7 +55,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   What I’m looking for are opportunities to learn by helping other developers and companies build their <mark>microservices architecture</mark> and <mark>cloud infrastructure</mark>, using the most advanced technology available.
 
-  Knowledge of AWS service (EC2, S3, CloudFront).
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -90,9 +89,13 @@ content:
           <b>Developing CI/CD roadmap and implementing to the project</b>
 
 
+          Ansible: developing build and deployment scripts (php,mysql,nginx) to multi server (sandbox, production)
 
+          Testing ansible roles with vagrant
+          
+          Have basic knowledge of Terraform (deploy static website on AWS)
 
-
+          Knowledge of AWS service (EC2, S3, CloudFront).
 
       - layout: left
         title: Vinacis Group
