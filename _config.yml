@@ -91,13 +91,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: center
-        title: Software Engineering
+        title: 
         caption: 2008  —  2010
-        sub_title: 
-        quote: >
-          NIIT Edufirst Centre, Ho Chi Minh, Vietnam
+        sub_title: Software Engineering
+        #quote: >
         description: | # this will include new lines to allow paragraphs
             DNIIT (Professional Diploma in Information Technology)
+            NIIT Edufirst Centre, Ho Chi Minh, Vietnam
+
           
 
   - title: A Little More About Me
@@ -113,7 +114,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
