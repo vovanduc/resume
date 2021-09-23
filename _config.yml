@@ -97,9 +97,10 @@ content:
           - Testing ansible roles with vagrant
 
           <b>Deploy the Application to Kubernetes (on-pre)</b>
-          - Used k8s to orchestrate the deployment, scaling and management of docker containers
+          - Used K8s to orchestrate the deployment, scaling and management of docker containers
           - Implemented a production ready, load balanced, highly available, fault tolerant Kubernetes cloud infrastructure
           - Run a Replicated Stateful Application
+          - Managed Kubernetes charts using Helm
 
       - layout: left
         title: Vinacis Group
