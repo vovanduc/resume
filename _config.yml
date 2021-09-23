@@ -102,6 +102,8 @@ content:
           - Run a Replicated Stateful Application
           - Managed Kubernetes charts using Helm
           - Building a Kubernetes CI/CD Pipeline with GitLab and Helm
+          - Centralizing logs with Fluentd and Elasticsearch
+          - Monitoring applications and Kubernetes with Prometheus
 
       - layout: left
         title: Vinacis Group
