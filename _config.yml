@@ -90,16 +90,18 @@ content:
           - Dockerizing existing projects (<mark>Build</mark> docker images and <mark>Deploy</mark> to registry)
           - The push triggers the CI/CD Pipelines (build, test, deploy)
 
+          <b>Configuration management using Ansible</b>
+          - Developing build and deployment scripts (php,mysql,nginx) to multi server (sandbox, production)
+          - Testing ansible roles with vagrant
 
 
 
-          Ansible: developing build and deployment scripts (php,mysql,nginx) to multi server (sandbox, production)
 
-          Testing ansible roles with vagrant
-
+      
           Have basic knowledge of Terraform (deploy static website on AWS)
 
-          Knowledge of AWS service (EC2, S3, CloudFront).
+          Having knowledge on Amazon AWS services such as EC2, S3, CloudFront.
+
 
       - layout: left
         title: Vinacis Group
@@ -191,3 +193,12 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+
+
+# vovanduc
+# Implementing CI/CD with different technology stacks (Java, PHP, JavaScript, NodeJs, .NET)
+
+# Having 3+ years of experience on DevOps Engineering practices involving with life cycle of
+# software development such as Continuous Integration, Continuous Delivery, Configuration
+# Management, source code management and infrastructure automation.
