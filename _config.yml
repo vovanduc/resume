@@ -72,10 +72,32 @@ content:
   #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Go Digital World
+        #link:
+        #link_text:
+        sub_title: Web Application Developer
+        caption: January 2011 - January 2014
+        quote: >
+          Project Order Product from Amazon.com: Customers in my country can buy products from Amazon.com Take a leading role in all stages of the software development lifecycle including requirements development, UI and database schema design, programming, system and user acceptance testing
+        description: | # this will include new lines to allow paragraphs
+            - <b>How to Scrape Amazon.com</b>
+            - Build an Amazon scraper for extracting product details and pricing when customer request (curl)
+            - Scraping essentially means that script will download the web page from Amazon, parse the HTML and extract the price
+            - Avoiding bot detection, use a proxy Service
+            - <b>Order System Admin</b>
+            - Module manage customer, order, invoice, product
+            - Role manage for each module
+            - Data visualizations, ad-hoc reports, database extracts, as well as Data visualizations, ad-hoc reports, database extracts, as well as
+            - Multi website for each brand name
+            - <b>Customer Portal</b>
+            - Customer can access wesite, research product, add to cart and payment
+            - Manage invoice, check status order
+            
       - layout: left
         title: Nhan Hoa Software
         link: nhanhoa.com
@@ -90,7 +112,7 @@ content:
             - Collaborate with sales teams to understand customer requirements and provide sales support
             - Maintaining websites for clients
             - Multi-DB (one system database and separated tenant databases, table prefixed in the system database)
-            - Multi-Channel (theme, subdomain for each tenant)
+            - Multi-Channel (theme, subdomain for each tenant)      
 
   - title: Skills
     layout: text
