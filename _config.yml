@@ -55,9 +55,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   What I’m looking for are opportunities to learn by helping other developers and companies build their <mark>microservices architecture</mark> and <mark>cloud infrastructure</mark>, using the most advanced technology available.
 
+
   - Have basic knowledge of Terraform (deploy static website on AWS)
 
-  - Have basic knowledge on Amazon AWS services such as EC2, S3, CloudFront.
+  - Have basic knowledge on Amazon AWS services such as EC2, S3, CloudFront
 
 content:
   # - title: Projects # Title for the section
