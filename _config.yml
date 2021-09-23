@@ -56,11 +56,6 @@ about_content: | # this will include new lines to allow paragraphs
   What I’m looking for are opportunities to learn by helping other developers and companies build their <mark>microservices architecture</mark> and <mark>cloud infrastructure</mark>, using the most advanced technology available.
 
 
-
-  - Have basic knowledge of Terraform (deploy static website on AWS)
-
-  - Have basic knowledge on Amazon AWS services such as EC2, S3, CloudFront
-
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -96,13 +91,11 @@ content:
           - Dockerizing existing projects (<mark>Build</mark> docker images and <mark>Deploy</mark> to registry)
           - The push triggers the CI/CD Pipelines (build, test, deploy)
           - Build and test application automatically when developers push code changes every day
-          
-
+          <br/><br/>
           <b>Configuration management using Ansible</b>
           - Developing build and deployment scripts (php,mysql,nginx) to multi server (Sandbox, Qa, Prod)
           - Testing ansible roles with vagrant
-
-
+          <br/><br/>
           <b>Deploy the Application to Kubernetes (on-pre)</b>
 
       - layout: left
@@ -199,6 +192,11 @@ plugins:
 
 
 # vovanduc
+
+  # - Have basic knowledge of Terraform (deploy static website on AWS)
+
+  # - Have basic knowledge on Amazon AWS services such as EC2, S3, CloudFront
+
 # Implementing CI/CD with different technology stacks (Java, PHP, JavaScript, NodeJs, .NET)
 
 # Having 3+ years of experience on DevOps Engineering practices involving with life cycle of
