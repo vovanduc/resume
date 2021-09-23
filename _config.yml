@@ -87,7 +87,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           <b>Developing CI/CD roadmap and implementing to the project with Gitlab.com</b>
-          -
+          - Dockerizing existing projects (Writing Dockerfiles, Using docker-compose, Deploying to registry…)
 
           Ansible: developing build and deployment scripts (php,mysql,nginx) to multi server (sandbox, production)
 
@@ -105,10 +105,10 @@ content:
         quote: >
           Cloud Computing: Company providing server infrastructure and cloud computing solutions
         description: | # this will include new lines to allow paragraphs
-          -  Develop and improve integrations with CRMmini internal
-          -  Design and develop page customer portal system to help customers manage their account
-          -  Create, maintains and enhances existing custom API for provider cloud (Onapp, Virtuozzo, Plesk)
-          -  To support development manager in solution delivery and implementation
+          - Develop and improve integrations with CRMmini internal
+          - Design and develop page customer portal system to help customers manage their account
+          - Create, maintains and enhances existing custom API for provider cloud (Onapp, Virtuozzo, Plesk)
+          - To support development manager in solution delivery and implementation
 
       - layout: left
         title: Go Digital World
