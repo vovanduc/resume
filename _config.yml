@@ -86,13 +86,13 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          <b>Developing CI/CD roadmap and implementing to the project</b>
-
+          <b>Developing CI/CD roadmap and implementing to the project with Gitlab.com</b>
+          -
 
           Ansible: developing build and deployment scripts (php,mysql,nginx) to multi server (sandbox, production)
 
           Testing ansible roles with vagrant
-          
+
           Have basic knowledge of Terraform (deploy static website on AWS)
 
           Knowledge of AWS service (EC2, S3, CloudFront).
@@ -153,7 +153,7 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <b>Cloud Native: </b> Kubernetes - AWS
+      - <b>Cloud Native: </b> Docker - Helm - Kubernetes - AWS
       - <b>Infrastructure as Code: </b> Ansible - Terraform
       - <b>Monitoring - Logging: </b> Prometheus - Fluentd - Grafana - Elasticsearch
       - <b>CI/CD: </b> Gitlab
