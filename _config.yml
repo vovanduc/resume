@@ -82,14 +82,12 @@ content:
         sub_title: Software Developer
         caption: August 2017 - January 2021
         quote: >
-          Project Website Builder: The platform that gives customer the freedom to pick a template and customize theme. Start customer own blog, add an online store. Customers must purchase premium packages in order to connect their sites to their customer domains, theme pro, add e-commerce capabilities, or buy extra data storage and bandwidth
+          Cloud Computing: Company providing server infrastructure and cloud computing solutions
         description: | # this will include new lines to allow paragraphs
-            - Develop and deploy new features to existing products
-            - Write documentation to describe application development logic and coding
-            - Collaborate with sales teams to understand customer requirements and provide sales support
-            - Maintaining websites for clients
-            - Multi-DB (one system database and separated tenant databases, table prefixed in the system database)
-            - Multi-Channel (theme, subdomain for each tenant)   
+          -  Develop and improve integrations with CRMmini internal
+          -  Design and develop page customer portal system to help customers manage their account
+          -  Create, maintains and enhances existing custom API for provider cloud (Onapp, Virtuozzo, Plesk)
+          -  To support development manager in solution delivery and implementation
 
       - layout: left
         title: Go Digital World
