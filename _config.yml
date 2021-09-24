@@ -105,7 +105,7 @@ content:
           - Centralizing logs with Fluentd and Elasticsearch
           - Monitoring applications and Kubernetes with Prometheus
 
-      - layout: left
+      - layout: top-middle
         title: Vinacis Group
         link: vinacis.com
         sub_title: Software Developer
@@ -118,7 +118,7 @@ content:
           - Create, maintains and enhances existing custom API for provider cloud (Onapp, Virtuozzo, Plesk)
           - To support development manager in solution delivery and implementation
 
-      - layout: left
+      - layout: top-middle
         title: Go Digital World
         #link:
         #link_text:
@@ -142,7 +142,7 @@ content:
             - Customer can access wesite, research product, add to cart and payment
             - Manage invoice, check status order
             
-      - layout: left
+      - layout: top-middle
         title: Nhan Hoa Software
         link: nhanhoa.com
         # link_text: boringcompany.com
