@@ -88,7 +88,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           <b>Developing CI/CD roadmap and implementing to the project with Gitlab</b>
-          - Dockerizing existing projects (<mark>Build</mark> docker images and <mark>Deploy</mark> to registry)
+          - Dockerizing existing projects (Build docker images and Deploy to registry)
           - The push triggers the CI/CD Pipelines (build, test, deploy)
           - Build and test application automatically when developers push code changes every day
 
