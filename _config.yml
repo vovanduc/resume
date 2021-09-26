@@ -101,7 +101,6 @@ content:
           - Implemented a production ready, load balanced, highly available, fault tolerant Kubernetes cloud infrastructure
           - Run a Replicated Stateful Application
           - Deploy, Upgrade an Application on Kubernetes with Helm
-          - Building a Kubernetes CI/CD Pipeline with GitLab and Helm
           - Centralizing logs with Fluentd and Elasticsearch
           - Monitoring applications and Kubernetes with Prometheus
 
@@ -167,7 +166,7 @@ content:
       - <b>CI/CD: </b> Gitlab
       - <b>Scripting and Coding: </b> JavaScript - PHP - Python - SQL - Git - YAML
       - <b>Web frameworks: </b> Laravel - Codeigniter - Django
-      - <b>Tools: </b> Docker - Virtualbox - Vagrant - Visual Studio Code - Iterm 
+      - <b>Tools: </b> Virtualbox - Vagrant - Visual Studio Code - Iterm 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
