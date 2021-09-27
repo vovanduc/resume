@@ -103,8 +103,9 @@ content:
           - Deploy, Upgrade an Application on Kubernetes with Helm
           
           <b>Centralizing logs with Fluentd and Elasticsearch</b>
-          - abc
-          
+          - Collecting logs from nodes with fluentd
+          - Parse nginx access log with fluentd and shipping logs to Elasticsearch
+    
           <b>Monitoring applications and Kubernetes with Prometheus</b>
           - Deploy node-exporter on all the Kubernetes nodes as a daemonset. Create a service and points to all the daemonset node exporter pods
           - Monitoring the service endpoints from Prometheus using the endpoint job config
