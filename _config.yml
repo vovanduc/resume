@@ -108,6 +108,7 @@ content:
           <b>Monitoring applications and Kubernetes with Prometheus</b>
           - Deploy node-exporter on all the Kubernetes nodes as a daemonset. Create a service and points to all the daemonset node exporter pods
           - Monitoring the service endpoints from Prometheus using the endpoint job config
+          - Monitoring HTTP App using blackbox-exporter
 
       - layout: top-middle
         title: Vinacis Group
