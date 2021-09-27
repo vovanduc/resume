@@ -106,7 +106,7 @@ content:
           - abc
           
           <b>Monitoring applications and Kubernetes with Prometheus</b>
-          - abc
+          - Deploy node-exporter on all the Kubernetes nodes as a daemonset. Create a service and points to all the daemonset node exporter pods.
 
       - layout: top-middle
         title: Vinacis Group
