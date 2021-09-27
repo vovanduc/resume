@@ -103,9 +103,10 @@ content:
           - Deploy, Upgrade an Application on Kubernetes with Helm
           
           <b>Centralizing logs with Fluentd and Elasticsearch</b>
-          - 
+          - abc
+          
           <b>Monitoring applications and Kubernetes with Prometheus</b>
-          - 
+          - abc
 
       - layout: top-middle
         title: Vinacis Group
