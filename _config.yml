@@ -101,8 +101,11 @@ content:
           - Implemented a production ready, load balanced, highly available, fault tolerant Kubernetes cloud infrastructure
           - Run a Replicated Stateful Application
           - Deploy, Upgrade an Application on Kubernetes with Helm
-          - Centralizing logs with Fluentd and Elasticsearch
-          - Monitoring applications and Kubernetes with Prometheus
+          
+          <b>Centralizing logs with Fluentd and Elasticsearch</b>
+          - 
+          <b>Monitoring applications and Kubernetes with Prometheus</b>
+          - 
 
       - layout: top-middle
         title: Vinacis Group
