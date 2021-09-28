@@ -97,7 +97,7 @@ content:
           - Testing ansible roles with vagrant
           
           <b>Developing Infrastructure as Code with Terraform</b>
-          - Deploying multiple environments with terraform module
+          - Deploy multiple environments with terraform module
           - Have basic knowledge of Terraform (deploy static website on AWS)
           - Have basic knowledge on Amazon AWS services such as EC2, S3, CloudFront
           
