@@ -80,17 +80,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Vinacis Group
-        link: vinacis.com
-        sub_title: Developer
-        caption: 2022 - 2023 (comeback)
-        quote: >
-          Cloud Computing: Company providing server infrastructure and cloud computing solutions
-        description: | # this will include new lines to allow paragraphs
-          - abc
-          - bcd
-
-      - layout: top-middle
         title: CNV Loyalty
         link: cnvloyalty.com
         sub_title: Devops - AWS
