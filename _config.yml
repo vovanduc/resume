@@ -80,6 +80,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: CNV Loyalty
+        link: cnvloyalty.com
+        sub_title: Devops
+        caption: 2021 - 2022
+        quote: >
+          Ứng dụng chăm sóc khách hàng thời đại 4.0
+        description: | # this will include new lines to allow paragraphs
+          - Triển khai container hoá toàn bộ hệ thống ứng dụng cũ, chuyển đổi từ môi trường truyền thống sang Docker, đảm bảo tính nhất quán và dễ dàng quản lý.
+          - Thiết lập và vận hành Kubernetes (EKS) trên AWS để quản lý và tự động hoá việc triển khai, scaling và quản lý container.
+          - Thiết kế và triển khai pipeline CI/CD giúp tự động hóa quy trình build, test và deploy, rút ngắn thời gian release.
+          - Sử dụng các dịch vụ AWS như EC2, S3, EKS để xây dựng hạ tầng cloud linh hoạt, đảm bảo tính ổn định và khả năng mở rộng.
+          - Tối ưu hoá chi phí vận hành trên AWS thông qua việc theo dõi billing, rightsizing tài nguyên và tận dụng các dịch vụ chi phí thấp hơn khi phù hợp.
+          - Xây dựng hệ thống monitoring và alerting giúp phát hiện sớm và xử lý sự cố kịp thời (gợi ý: nếu có dùng Prometheus, Grafana, CloudWatch ...).
+
+      - layout: top-middle
         title: Vinacis Group
         link: vinacis.com
         sub_title: DevOps - Cloud
