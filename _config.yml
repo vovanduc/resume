@@ -85,7 +85,7 @@ content:
         sub_title: Devops - AWS
         caption: 2021 - 2022
         quote: >
-          Customer care application in the 4.0 era
+        
         description: | # this will include new lines to allow paragraphs
           - Led the containerization of legacy applications using Docker, improving environment consistency and simplifying deployment processes.
           - Set up and managed Kubernetes clusters (EKS on AWS) to orchestrate and scale containerized applications efficiently.
