@@ -80,6 +80,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Outsource freelance
+        link: xxx.com
+        sub_title: xxx
+        caption: 2023 - 2025
+        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          - ...
+          
+      - layout: top-middle
         title: CNV Loyalty
         link: cnvloyalty.com
         sub_title: Devops - AWS
