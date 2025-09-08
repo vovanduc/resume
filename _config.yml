@@ -89,6 +89,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <b>Built enterprise cloud management platform</b>
           - Enabling customers to provision and manage OpenStack infrastructure resources through intuitive web interface
+          - Developed enterprise-level multi-tenant SaaS platform serving cloud infrastructure management
           - Supporting white-label deployment for multiple cloud providers with isolated databases per tenant
           - Integrated real-time usage-based billing system connecting platform with billing engine for automated invoice generation, subscription management, and credit tracking
 
