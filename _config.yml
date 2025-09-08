@@ -92,12 +92,12 @@ content:
           - Developed enterprise-level multi-tenant SaaS platform serving cloud infrastructure management
           - Supporting white-label deployment for multiple cloud providers with isolated databases per tenant
           - Integrated real-time usage-based billing system connecting platform with billing engine for automated invoice generation, subscription management, and credit tracking
-
+          
           <b>Infrastructure Monitoring & Performance Optimization</b>
-          - ...
+          - Developed
           
           <b>AI-Powered Cloud Computing</b>
-          - ...
+          - Developed
           
       - layout: top-middle
         title: CNV Loyalty
@@ -145,7 +145,7 @@ content:
           <b>Centralizing logs with Fluentd and Elasticsearch</b>
           - Collecting logs from nodes with fluentd
           - Parse nginx access log with fluentd and shipping logs to Elasticsearch
-    
+          
           <b>Monitoring applications and Kubernetes with Prometheus</b>
           - Deploy node-exporter on all the Kubernetes nodes as a daemonset. Create a service and points to all the daemonset node exporter pods
           - Monitoring the service endpoints from Prometheus using the endpoint job config
