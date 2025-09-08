@@ -100,7 +100,9 @@ content:
           - Developed automated remediation capabilities handling common issues (CPU throttling, memory cache clearing, disk cleanup, dynamic resource scaling) achieving 80% proactive detection rate before user impact across 50+ VM infrastructure
           
           <b>AI-Powered Cloud Computing</b>
-          - 
+          - Developed intelligent chat interface for infrastructure management enabling natural language queries like "Show me top 5 CPU-consuming VMs" or "Scale web-server-01 to 4 cores" with real-time execution and response
+          - Built conversational AI system integrating with Infra APIs allowing operators to manage servers, networks, and volumes through chat commands: "Create new VM with 8GB RAM", "List all running instances in production"
+          - Implemented smart troubleshooting assistant providing step-by-step diagnostic guidance through chat: "VM is slow" → AI analyzes metrics → suggests "Check disk usage on /var partition" → executes commands → provides resolution
           
       - layout: top-middle
         title: CNV Loyalty
