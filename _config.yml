@@ -83,7 +83,7 @@ content:
         title: Outsource freelance
         link: xxx.com
         sub_title: Cloud Management Platform
-        caption: 2023 - 2025
+        caption: 2023 - xxx
         quote: >
 
         description: | # this will include new lines to allow paragraphs
@@ -93,11 +93,14 @@ content:
           - Supporting white-label deployment for multiple cloud providers with isolated databases per tenant
           - Integrated real-time usage-based billing system connecting platform with billing engine for automated invoice generation, subscription management, and credit tracking
           
-          <b>Infrastructure Monitoring & Performance Optimization</b>
-          - Developed
+          <b>Infrastructure Monitoring, Performance Optimization</b>
+          - Data Collection: Collect metrics from 50+ VMs using Prometheus, monitor key resources: CPU utilization, memory usage, disk I/O latency, network performance
+          - Designed intelligent alerting system with dynamic thresholds (CPU >x%, Memory >x%, Disk latency > ms) integrated with AlertManager → PagerDuty/Slack notification pipeline
+          - Implemented automated incident response workflow reducing MTTR by 50% through systematic escalation: auto-response (0-15min) → engineering team → senior engineer escalation with intelligent alert routing and context-aware notifications
+          - Developed automated remediation capabilities handling common issues (CPU throttling, memory cache clearing, disk cleanup, dynamic resource scaling) achieving 80% proactive detection rate before user impact across 50+ VM infrastructure
           
           <b>AI-Powered Cloud Computing</b>
-          - Developed
+          - 
           
       - layout: top-middle
         title: CNV Loyalty
